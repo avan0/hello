@@ -1,6 +1,6 @@
 /**
  * Author: Alex Van
- * Date: 2020/08/17
+ * Date: 2020/08/24
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Alex Van\n");
+  printf("Computer Engineering\n");
 
   return 0;
 }
